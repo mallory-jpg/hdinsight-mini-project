@@ -1,6 +1,6 @@
 # HDInsight Mini Project
 
-Instead of doing this project directly through the portal (which didn't work because of my M1 processing chip), my workaround was using third-party apps through VSCode editor. 😺
+Instead of doing this project directly through the Azure portal (which didn't work because of my M1 processing chip), my workaround was using third-party apps through VSCode editor. 😺
 
 ### Project Screenshots:
 
